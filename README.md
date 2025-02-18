@@ -2,6 +2,8 @@
 
 A demo of classic 3-in-a-row puzzle game implementation using LibGDX and Entity-Component-System (ECS) architecture.
 
+!(screenshots/screen1.jpg)
+
 ## Features
 
 - 🧩 **ECS Architecture**: Clean separation of game logic using Entity-Component-System pattern
