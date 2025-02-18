@@ -16,7 +16,7 @@ A demo of classic 3-in-a-row puzzle game implementation using LibGDX and Entity-
   - Input locking during animations
   - Auto-refill of empty tiles
 
-How to play:
+How to play:  
 1 Clone the repository  
 2 Type gradlew.bat lwjgl3:run  
 3 Enjoy  
